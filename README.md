@@ -6,11 +6,8 @@ An AI-powered voice authentication system that uses speaker recognition to grant
 
 ## 📌 Features
 
-- 🔊 **Voice Enrollment** — Register users by capturing voice samples
-- 🧠 **Speaker Embeddings** — Uses the ECAPA-TDNN model (SpeechBrain) for voice fingerprinting
 - 🔐 **Voice Authentication** — Verifies identity in real-time using cosine similarity
 - 🗣️ **Speech Recognition** — Transcribes spoken commands using Whisper / SpeechRecognition
-- 🖥️ **Streamlit UI** — Clean web-based interface for managing users and testing the gate
 
 ---
 
