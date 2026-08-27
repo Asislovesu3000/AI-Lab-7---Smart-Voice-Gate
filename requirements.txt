@@ -1,0 +1,7 @@
+streamlit
+speechbrain
+torchaudio
+torch
+SpeechRecognition
+soundfile
+gTTS
