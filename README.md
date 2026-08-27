@@ -11,24 +11,7 @@ An AI-powered voice authentication system that uses speaker recognition to grant
 
 ---
 
-## 🗂️ Project Structure
 
-```
-Smart Voice Gate/
-├── app.py                        # Main Streamlit application
-├── voice_embedding.py            # Speaker embedding extraction
-├── speech_recognition_module.py  # Speech-to-text module
-├── user_manager.py               # User enrollment & management
-├── gate_logic.py                 # Authentication decision logic
-├── requirements.txt              # Python dependencies
-├── pretrained_models/
-│   └── spkrec-ecapa-voxceleb/
-│       └── hyperparams.yaml      # Model config (weights excluded)
-└── enrolled_users/
-    └── users.json                # Enrolled user metadata (schema example)
-```
-
----
 
 ## ⚙️ Setup & Installation
 
