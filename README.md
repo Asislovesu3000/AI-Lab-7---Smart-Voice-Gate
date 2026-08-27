@@ -6,7 +6,7 @@ An AI-powered voice authentication system that uses speaker recognition to grant
 
 ## 📌 Features
 
-- 🔐 **Voice Authentication** — Verifies identity in real-time using cosine similarity
+- 🔐 **Speaker Verification** — using ECAPA-TDNN deep learning model with Cosine Similarity for identity matching** 
 - 🗣️ **Speech Recognition** — Transcribes spoken commands using Whisper / SpeechRecognition
 
 ---
