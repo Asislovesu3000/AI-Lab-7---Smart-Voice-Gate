@@ -9,9 +9,9 @@ Click the mic and say your passphrase clearly <br>
 Click Enroll to save your voiceprint <br>
 
 # To Verify Voice and Pass Phrase 
-🛡️ How It Works
-Select your enrolled name
-Record yourself saying your passphrase
-AI checks WHO you are (voice match)
-AI checks WHAT you said (phrase match)
-Both must pass to unlock! 🔓
+🛡️ How It Works<br>
+Select your enrolled name<br>
+Record yourself saying your passphrase<br>
+AI checks WHO you are (voice match)<br>
+AI checks WHAT you said (phrase match)<br>
+Both must pass to unlock! 🔓<br>
