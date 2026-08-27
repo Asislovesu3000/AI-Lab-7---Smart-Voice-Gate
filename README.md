@@ -7,3 +7,11 @@ Enter your name
 Type your custom passphrase (e.g., "open sesame")
 Click the mic and say your passphrase clearly
 Click Enroll to save your voiceprint
+
+# To Verify Voice and Pass Phrase 
+🛡️ How It Works
+Select your enrolled name
+Record yourself saying your passphrase
+AI checks WHO you are (voice match)
+AI checks WHAT you said (phrase match)
+Both must pass to unlock! 🔓
